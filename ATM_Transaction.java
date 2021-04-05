@@ -12,7 +12,7 @@ public class ATM_Transaction
             System.out.println("Choose 2 for Deposit");
             System.out.println("Choose 3 for Check Balance");
             System.out.println("Choose 4 for EXIT");
-            System.out.print("Choose the operation you want to perform:");
+            System.out.print("Choose the operation you want to Perform:");
             int n = s.nextInt();
             switch(n)
             {
