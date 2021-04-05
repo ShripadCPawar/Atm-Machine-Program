@@ -22,7 +22,7 @@ public class ATM_Transaction
                 if(balance >= withdraw)
                 {
                     balance = balance - withdraw;
-                    System.out.println("Please collect your money");
+                    System.out.println("Please collect your Money");
                 }
                 else
                 {
