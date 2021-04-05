@@ -35,7 +35,7 @@ public class ATM_Transaction
                 System.out.print("Enter money to be Deposited:");
                 deposit = s.nextInt();
                 balance = balance + deposit;
-                System.out.println("Your Money has been successfully depsited");
+                System.out.println("Your Money has been successfully Deposited");
                 System.out.println("");
                 break;
  
