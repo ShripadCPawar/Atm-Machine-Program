@@ -32,7 +32,7 @@ public class ATM_Transaction
                 break;
  
                 case 2:
-                System.out.print("Enter money to be deposited:");
+                System.out.print("Enter money to be Deposited:");
                 deposit = s.nextInt();
                 balance = balance + deposit;
                 System.out.println("Your Money has been successfully depsited");
